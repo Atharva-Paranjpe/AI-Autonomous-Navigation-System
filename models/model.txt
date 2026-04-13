@@ -1,0 +1,4 @@
+Download yolov8s.pt from:
+https://github.com/ultralytics/assets/releases
+
+Place it inside this folder before running.

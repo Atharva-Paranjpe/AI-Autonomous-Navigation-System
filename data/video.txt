@@ -1,0 +1,1 @@
+Place your input video here as sample.mp4 before running the project.
