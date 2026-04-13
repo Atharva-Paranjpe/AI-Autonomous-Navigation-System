@@ -110,6 +110,21 @@ python main.py
 
 ---
 
+## ⚠️ Note
+
+Due to GitHub file size limitations, the actual model file and input video are not included in this repository.
+
+To run the project:
+
+- Download the YOLOv8 model (`yolov8s.pt`) from:
+  https://github.com/ultralytics/assets/releases
+
+- Place it inside the `models/` folder.
+
+- Add your input video as `sample.mp4` inside the `data/` folder.
+
+After that, you can run the project normally.
+
 ## 👨‍💻 Author
 
 Atharva Amol Paranjpe
